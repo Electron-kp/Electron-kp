@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📁 Electron kp</h1>
+  <h1>Electron kp</h1>
   <p>Entwickler</p>
 </div>
 
