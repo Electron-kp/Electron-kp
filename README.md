@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>📁 Electron-kp</h1>
-  <p>Entwickler mit einem besonderen Namen und kreativen Projekten</p>
+  <h1>📁 Electron kp</h1>
+  <p>Entwickler</p>
 </div>
 
 ---
